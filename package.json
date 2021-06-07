@@ -1,0 +1,35 @@
+{
+  "name": "@jopemachine/arvis-chrome-control",
+  "version": "0.0.4",
+  "description": "A JXA script and an Alfred Workflow for controlling Google Chrome",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "arvish-init",
+    "preuninstall": "arvish-cleanup"
+  },
+  "files": [
+    "chrome.js",
+    "arvis-workflow.json",
+    "icon.png",
+    "package.json",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jopemachine/arvis-chrome-control.git"
+  },
+  "keywords": [
+    "arvis",
+    "arvis-workflow",
+    "arvish"
+  ],
+  "author": "Renan Cakirerk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jopemachine/arvis-chrome-control/issues"
+  },
+  "homepage": "https://github.com/jopemachine/arvis-chrome-control#readme",
+  "dependencies": {
+    "@jopemachine/arvish": "^0.1.13"
+  }
+}
