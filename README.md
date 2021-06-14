@@ -3,6 +3,12 @@ Chrome Control
 
 ![Chrome Control](img/banner.png)
 
+## 🔗 This workflow is converted from [alfred-workflow](https://github.com/bit2pixel/chrome-control).
+
+* Note that there might be some code change or different actions from the original workflow.
+
+* Marked original workflow's creator to author.
+
 A JXA script and an Alfred Workflow for controlling Google Chrome
 (Javascript for Automation).
 
