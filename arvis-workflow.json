@@ -1,10 +1,10 @@
 {
-  "$schema": "https://github.com/jopemachine/arvis-core/blob/master/workflow-schema.json",
+  "$schema": "https://raw.githubusercontent.com/jopemachine/arvis-extension-validator/master/workflow-schema.json",
   "creator": "Renan Cakirerk",
   "description": "A workflow that allows you to fuzzy search all open tabs, jump to any tab, close duplicate tabs, close tabs by keyword or url",
   "name": "Chrome Control",
   "readme": "A workflow that allows you to fuzzy search all open tabs, jump to any tab, close duplicate tabs, close tabs by keyword or url.\n\nAlfred Chrome Control Commands:\n\n`tabs`: Lists all tabs\n\n`close url <keywords>`: Close tabs with URLs matching these keywords\n\n`close title <keywords>`: Close tabs with titles matching these keywords\n\n`dedup`: Close duplicate tabs\n\nYou can find the source code of this workflow here [1]\n\nAlso see my \"How I Navigate Hundreds of Tabs on Chrome with JXA and Alfred\" article [2] if you're interested in learning how I created the workflow.\n\n[1] https://github.com/bit2pixel/chrome-control\n\n[2] https://medium.com/@bit2pixel/how-i-navigate-hundreds-of-tabs-on-chrome-with-jxa-and-alfred-9bbf971af02b",
-  "version": "1.1.0",
+  "version": "0.0.1",
   "defaultIcon": "icon.png",
   "webAddress": "https://medium.com/@bit2pixel/how-i-navigate-hundreds-of-tabs-on-chrome-with-jxa-and-alfred-9bbf971af02b",
   "enabled": true,
