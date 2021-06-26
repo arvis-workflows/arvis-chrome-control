@@ -1,6 +1,6 @@
 {
   "name": "arvis-chrome-control",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A JXA script and an Alfred Workflow for controlling Google Chrome",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
