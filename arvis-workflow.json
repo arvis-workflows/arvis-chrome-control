@@ -8,6 +8,9 @@
   "defaultIcon": "icon.png",
   "webAddress": "https://medium.com/@bit2pixel/how-i-navigate-hundreds-of-tabs-on-chrome-with-jxa-and-alfred-9bbf971af02b",
   "enabled": true,
+  "platform": [
+    "darwin"
+  ],
   "commands": [
     {
       "type": "keyword",
